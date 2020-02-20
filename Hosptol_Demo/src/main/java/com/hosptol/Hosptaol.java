@@ -5,7 +5,7 @@ package com.hosptol;
 import java.text.SimpleDateFormat;
 import java.util.*;
 import java.io.*;
-
+// The Class Added
 public class Hosptaol {
   // The ArrayList are using patient
 	static ArrayList<Patient> arl = new ArrayList<Patient>();
