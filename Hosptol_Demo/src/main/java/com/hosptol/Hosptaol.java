@@ -10,7 +10,7 @@ public class Hosptaol {
   // The ArrayList are using patient
 	static ArrayList<Patient> arl = new ArrayList<Patient>();
 	static String joindate;
-
+ // The Main Method added
 	public static void main(String[] args) throws IOException {
 		char l = 'i';
 		Calendar currentDate = Calendar.getInstance();
