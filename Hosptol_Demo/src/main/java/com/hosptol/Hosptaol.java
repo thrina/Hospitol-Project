@@ -7,7 +7,7 @@ import java.util.*;
 import java.io.*;
 
 public class Hosptaol {
-
+  // The ArrayList are using patient
 	static ArrayList<Patient> arl = new ArrayList<Patient>();
 	static String joindate;
 
